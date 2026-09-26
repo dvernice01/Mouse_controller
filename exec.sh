@@ -1,0 +1,1 @@
+docker exec -it control_demos bash -c "cd /root/ros_workspace && exec bash"

@@ -1,0 +1,28 @@
+# Cartelle standard generate da colcon in ROS2
+build/
+install/
+log/
+
+# Cartelle dell'ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# File di compilazione C/C++ generici
+*.o
+*.so
+*.os
+*.a
+*.out
+
+# File di configurazione degli IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File di sistema OS (macOS, Windows)
+.DS_Store
+Thumbs.db
